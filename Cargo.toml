@@ -1,0 +1,7 @@
+[package]
+name = "rsh"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+light_fs = { git = "https://github.com/MEssap/light_fs.git" }
